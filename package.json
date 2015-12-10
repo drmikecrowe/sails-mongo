@@ -45,6 +45,7 @@
     "lodash": "~3.10.0",
     "mongodb": "^2.0.42",
     "bson": "*",
+    "bson-ext": "*",
     "validator": "^4.1.0",
     "waterline-cursor": "~0.0.6",
     "waterline-errors": "~0.10.0"
